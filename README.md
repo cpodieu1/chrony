@@ -1,1 +1,3 @@
-# chrony
+# maven-project
+
+Simple Maven Project
